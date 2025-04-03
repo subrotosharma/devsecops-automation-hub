@@ -18,10 +18,6 @@ spec:
     spec:
       containers:
       - name: prime-container
-        image: kanha05/amazon-prime:replaceImageTag
+        image: subrotosharma/amazon-prime:01
         ports:
         - containerPort: 3000
-      
-    
-
-  
